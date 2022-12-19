@@ -1,0 +1,1 @@
+{"version":3,"file":"accounts.routes.js","sourceRoot":"","sources":["../../src/routes/accounts.routes.ts"],"names":[],"mappings":";;;AAAA,mCAAiD;AACjD,wEAAuE;AACvE,0EAAyE;AAEzE,IAAM,cAAc,GAAG,IAAA,gBAAM,GAAE,CAAC;AAOvB,wCAAc;AANvB,IAAM,kBAAkB,GAAG,IAAI,uCAAkB,EAAE,CAAC;AAEpD,cAAc,CAAC,GAAG,CAAC,yCAAqC,CAAC,CAAC;AAE1D,cAAc,CAAC,GAAG,CAAC,MAAM,EAAE,kBAAkB,CAAC,IAAI,CAAC,CAAC"}
